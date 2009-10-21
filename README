@@ -19,12 +19,6 @@ DESCRIPTION
 
   Calculates a ROC curve as well as the area under the curve (AUC).
 
-SAMPLES
-
-  
-
-
-
 HISTORY
   0.0.0
 
