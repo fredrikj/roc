@@ -7,3 +7,6 @@
   r1.roc
   r1.auc
   r1.auc(0.1)
+  r2.roc
+  r2.auc
+  r2.auc(0.1)

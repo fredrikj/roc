@@ -49,6 +49,7 @@ class ROCarray < Array
     ptot = self.join.count('P')
     return nil if ptot==0
     ntot = self.join.count('N')
+    return nil if ntot==0
     ystep = 1.0 / ptot
     xstep = 1.0 / ntot
     parr = self.inject([[0,0]]) do |points,rocpoint|
